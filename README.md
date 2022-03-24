@@ -12,6 +12,19 @@
   <img align="left" alt="moo_rangers's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+### ⚡ Technologies
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<hr />
+
+<span>
+  <img src="https://badges.pufler.dev/repos/moorangers" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=moorangers.moorangers" />
+</span>
+
 <!--
 **moorangers/moorangers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
