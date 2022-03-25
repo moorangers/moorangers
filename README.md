@@ -11,6 +11,8 @@
 <a href="https://www.linkedin.com/">
   <img align="left" alt="moo_rangers's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br />
+<hr />
 
 ### ⚡ Technologies
 
