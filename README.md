@@ -24,7 +24,6 @@
 
 <span>
   <img src="https://badges.pufler.dev/repos/moorangers" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=moorangers.moorangers" />
 </span>
 
 <!--
