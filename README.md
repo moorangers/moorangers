@@ -8,7 +8,7 @@
 <a href="https://twitter.com/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="linkedin.com/in/atsjan-changthong-0629aa164">
   <img align="left" alt="moo_rangers's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
