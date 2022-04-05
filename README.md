@@ -37,7 +37,7 @@ My name is Atsjan Changthong. I am a Software Developer in training at TechUp Bo
 <a href="https://twitter.com/">
   <img align="center" alt="" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="linkedin.com/in/atsjan-changthong-0629aa164">
+<a href="www.linkedin.com/in/atsjan-changthong-0629aa164">
   <img align="center" alt="moo_rangers's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
