@@ -1,8 +1,11 @@
 <div align="center">
-<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1>Hi there !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
   
 <p>
-My name is Atsjan Changthong. I am a Software Developer in training at TechUp BoostCamp, Thailand
+My name is Atsjan Changthong.
+</p>
+  <p>
+I am a Software Developer from TechUp BoostCamp, Thailand
 </p>
 
 ## 🚀💻 Technologies and tools 🛠 
@@ -45,6 +48,7 @@ My name is Atsjan Changthong. I am a Software Developer in training at TechUp Bo
                                   
 
 <!--
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
 
