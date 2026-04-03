@@ -1,67 +1,80 @@
 <div align="center">
-<h1>Hi there !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-  
-<p>
-My name is Atsjan Changthong.
-</p>
-  <p>
-I am a Software Developer from TechUp BoostCamp, Thailand
-</p>
 
-## 🚀💻 Technologies and tools 🛠 
-<a name="learning-now"></a>
-  <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-  
-## 📖  What I am currently learning / improving on ⚡
-<a name="learning-next"></a>
-  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-  <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
-  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" />
 
-## 📊 Status
-<a name="git-status"></a>
-  ![moorangers's GitHub stats](https://github-readme-stats.vercel.app/api?username=moorangers&show_icons=true&theme=radical)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moorangers&langs_count=8&theme=radical)](https://github.com/moorangers/github-readme-stats)
+# Hi there 👋 I'm Atsjan Changthong
 
-## 🔍 Where to find me
-<a name="git-status"></a>
-<a href="https://www.instagram.com/moo_rangers/">
-  <img align="center" alt="moo_rangers's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/">
-  <img align="center" alt="moo_rangers's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/">
-  <img align="center" alt="" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="www.linkedin.com/in/atsjan-changthong-0629aa164">
-  <img align="center" alt="moo_rangers's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+### Software Engineer from Thailand 🇹🇭
+<em>Building scalable systems with clean code, scalability, and performance in mind.</em>
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-atsjan.ch@gmail.com-white?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:atsjan.ch@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-atsjan--changthong-white?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/atsjan-changthong)
+[![GitHub](https://img.shields.io/badge/GitHub-mooranger-white?style=flat-square&logo=github&logoColor=181717)](https://github.com/mooranger)
 
 </div>
-                                  
 
-<!--
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
+## 🚀 Tech Stack
 
-**moorangers/moorangers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### Frontend
+![React](https://img.shields.io/badge/React-white?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-white?style=flat-square&logo=next.js&logoColor=000000)
+![Redux](https://img.shields.io/badge/Redux-white?style=flat-square&logo=redux&logoColor=764ABC)
+![Jotai](https://img.shields.io/badge/Jotai-white?style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### UI / Styling
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-white?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![MUI](https://img.shields.io/badge/MUI-white?style=flat-square&logo=mui&logoColor=007FFF)
+![HeroUI](https://img.shields.io/badge/HeroUI-white?style=flat-square)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-white?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-white?style=flat-square&logo=express&logoColor=000000)
+![NestJS](https://img.shields.io/badge/NestJS-white?style=flat-square&logo=nestjs&logoColor=E0234E)
+![REST API](https://img.shields.io/badge/REST%20API-white?style=flat-square)
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-white?style=flat-square&logo=css&logoColor=1572B6)
+![JSON](https://img.shields.io/badge/JSON-white?style=flat-square&logo=json&logoColor=000000)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-white?style=flat-square&logo=redis&logoColor=DC382D)
+![ORM](https://img.shields.io/badge/ORM-white?style=flat-square&logo=databricks&logoColor=FF3621)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-white?style=flat-square&logo=docker&logoColor=2496ED)
+![GCP](https://img.shields.io/badge/GCP-white?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-white?style=flat-square&logo=githubactions&logoColor=2088FF)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=181717)
+![Postman](https://img.shields.io/badge/Postman-white?style=flat-square&logo=postman&logoColor=FF6C37)
+![Jest](https://img.shields.io/badge/Jest-white?style=flat-square&logo=jest&logoColor=C21325)
+![Figma](https://img.shields.io/badge/Figma-white?style=flat-square&logo=figma&logoColor=F24E1E)
+![VSCode](https://img.shields.io/badge/VSCode-white?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+</div>
+
+## ✨ About Me
+
+- 💻 Software Engineer focused on scalable web applications
+- ⚙️ Interested in clean architecture, system design, and performance optimization
+- 🌱 Currently exploring modern frontend patterns, backend services, and cloud-native workflows
+- 🚀 Passionate about building maintainable products with great developer experience
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mooranger&color=blueviolet&style=flat-square" alt="Profile views" />
+  
+  <sub>Designed with a minimal aesthetic ✦ built for clarity, balance, and a touch of personality</sub>
+</div>
