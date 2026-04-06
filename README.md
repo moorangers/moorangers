@@ -75,6 +75,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mooranger&color=blueviolet&style=flat-square" alt="Profile views" />
-  
-  <sub>Designed with a minimal aesthetic ✦ built for clarity, balance, and a touch of personality</sub>
 </div>
